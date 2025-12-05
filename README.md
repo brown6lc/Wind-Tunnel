@@ -56,7 +56,7 @@ Findings from testing guided several refinements, such as improving sealing surf
 attachment points, and adjusting the diffuser angle.
 
 Team Contributions (Mechanical Subgroup)
-- CAD modeling of all mechanical components (SolidWorks/Onshape).
+- CAD modeling of all mechanical components (Fusion 360).
 - Material selection and sourcing.
 - Precision fabrication and machining.
 - Mechanical assembly and troubleshooting.
