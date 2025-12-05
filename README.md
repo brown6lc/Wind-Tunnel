@@ -2,6 +2,7 @@ Wind Tunnel Senior Design Project
 Mechanical Construction & Design Team
 8-Foot Wind Tunnel System
 Overview
+
 This project was completed as part of the Senior Design course in the Applied Physics/Engineering
 program. Our team was responsible for the mechanical construction and design of an 8-foot wind
 tunnel intended for educational laboratory use and preliminary aerodynamic testing.
